@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Smart Street Sentinel",
+  "description": "Real-time municipal street infrastructure monitoring and inspection mobile application tracking streetlights, drainage, water leaks, potholes, and electrical grid hazards.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
